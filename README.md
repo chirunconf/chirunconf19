@@ -1,4 +1,6 @@
-# chirunconf19
+# chirunconf19 
+
+<img src="https://raw.githubusercontent.com/chirunconf/chirunconf19/img/logo.png" align="right" />
 
 Welcome to the planning repo for the Chicago R Unconf! We will use this repository to start brainstorming different project ideas. Please share any and all ideas that come to mind -- no idea is too big, too small, too silly, or too hard. We can continue to discuss and refine throughout the week to learn how to best spend our time together.
 
